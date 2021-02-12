@@ -1,0 +1,36 @@
+.post{
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid #E1E8ED;
+    padding-bottom: 10px;
+
+}
+.Post-body > img{
+    border-radius: 20px;
+}
+.post-headerText > h3{
+    font-size: 15px;
+    margin-bottom: 5px;
+    /* font-style: italic; */
+}
+.post-footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.post-badge{
+    font-size: 14px !important;
+    color: #00acee;
+}
+.post-header-Special{
+    font-weight: 600;
+    color: gray;
+    font-size: 12px;
+}
+.post-header-Decription{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.post-avatar{
+    padding: 20px;
+}
